@@ -127,7 +127,7 @@ namespace Automation
          {
             Screenshot image = ((ITakesScreenshot)driver).GetScreenshot();
             //Save the screenshot
-            image.SaveAsFile("C:/temp/Screenshot.jpeg", System.Drawing.Imaging.ImageFormat.Jpeg);
+            //image.SaveAsFile("C:/temp/Screenshot.jpeg", System.Drawing.Imaging.ImageFormat.Jpeg);
          }
          var view=driver.FindElement(By.XPath("//select[@name='id_product']"));         
          js.ExecuteScript("arguments[0].scrollIntoView(true);", view);  

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Automation\\Automation.csproj": {}
+    "f:\\Automation\\Automation.csproj": {}
   },
   "projects": {
-    "F:\\Automation\\Automation.csproj": {
+    "f:\\Automation\\Automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Automation\\Automation.csproj",
+        "projectUniqueName": "f:\\Automation\\Automation.csproj",
         "projectName": "Automation",
-        "projectPath": "F:\\Automation\\Automation.csproj",
+        "projectPath": "f:\\Automation\\Automation.csproj",
         "packagesPath": "C:\\Users\\khush\\.nuget\\packages\\",
-        "outputPath": "F:\\Automation\\obj\\",
+        "outputPath": "f:\\Automation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khush\\AppData\\Roaming\\NuGet\\NuGet.Config"
